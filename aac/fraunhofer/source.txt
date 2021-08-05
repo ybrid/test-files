@@ -6,6 +6,7 @@ These testfiles were taken from https://www2.iis.fraunhofer.de/AAC/xhe-aac-compa
 
 These testfiles were taken from https://www2.iis.fraunhofer.de/AAC/xhe-aac-compare-tab2.html
 - Walking01_LN_*_128s_AACLC_320s.mp4
+- Farewell01_LN_*_048s_AACLC_320s.mp4
 
 
 xHE-AAC is a registered trademark of Fraunhofer in Germany, the United States and other countries.
