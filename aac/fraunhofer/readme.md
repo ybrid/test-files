@@ -1,4 +1,4 @@
-# source
+# AAC test files
 
 These testfiles were taken from https://www2.iis.fraunhofer.de/AAC/stereo.html on 2021-07-27
 - SBRtestStereo*.mp4
