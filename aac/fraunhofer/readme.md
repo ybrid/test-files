@@ -1,12 +1,12 @@
 # AAC test files
 
-These testfiles were taken from https://www2.iis.fraunhofer.de/AAC/stereo.html on 2021-07-27
+These files were taken from https://www2.iis.fraunhofer.de/AAC/stereo.html on 2021-07-27
 - SBRtestStereo*.mp4
 
-These testfiles were taken from https://www2.iis.fraunhofer.de/AAC/xhe-aac-compare-tab.html
+These files were taken from https://www2.iis.fraunhofer.de/AAC/xhe-aac-compare-tab.html
 - sqam??_LN_*_320s.mp4
 
-These testfiles were taken from https://www2.iis.fraunhofer.de/AAC/xhe-aac-compare-tab2.html
+These files were taken from https://www2.iis.fraunhofer.de/AAC/xhe-aac-compare-tab2.html
 - Walking01_LN_*_320s.mp4
 - Farewell01_LN_*_320s.mp4
 
